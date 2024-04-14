@@ -1,0 +1,1 @@
+obj-m := my_ads7830.o
